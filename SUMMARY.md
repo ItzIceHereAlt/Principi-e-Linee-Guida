@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduzione](README.md)
+* [Introduzione ai Principi e Linee Guida](README.md)
 
 ## Principi Fondamentali
 
@@ -16,7 +16,7 @@
   * [Durante il Controllo: Best Practice](protocolli-operativi/svolgimento-di-uno-screenshare/durante-il-controllo-best-practice.md)
   * [Fase Finale: Conclusione e Report](protocolli-operativi/svolgimento-di-uno-screenshare/fase-finale-conclusione-e-report.md)
 
-## &#x20;Sicurezza e Privacy
+## Sicurezza e Privacy
 
 * [Gestione della Sicurezza e della Privacy](sicurezza-e-privacy/gestione-della-sicurezza-e-della-privacy/README.md)
   * [Sicurezza dello Staffer](sicurezza-e-privacy/gestione-della-sicurezza-e-della-privacy/sicurezza-dello-staffer.md)
