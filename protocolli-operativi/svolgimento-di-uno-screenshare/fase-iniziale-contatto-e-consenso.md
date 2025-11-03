@@ -19,7 +19,7 @@ La fase iniziale è cruciale per stabilire un ambiente di controllo professional
 **4. Spiegazione dei Diritti e Consenso Informato:** Questa è una fase molto importante. Prima di chiedere qualsiasi dato di connessione, devi informare il player in modo chiaro e trasparente:
 
 * Spiega brevemente il motivo del controllo.
-* Comunica se la sessione sarà registrata, spiegando che è una misura per garantire la trasparenza e la sicurezza di entrambi.
+* Comunica che la sessione sarà registrata, spiegando che è una misura per garantire la trasparenza e la sicurezza di entrambi.
 * Informa il player del suo diritto di rifiutare il controllo, spiegando le conseguenze previste dal regolamento del server in caso di rifiuto.
 * Chiedi esplicitamente il suo consenso per procedere.
 

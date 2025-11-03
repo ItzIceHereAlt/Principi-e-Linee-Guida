@@ -6,8 +6,7 @@ icon: server
 
 La responsabilità non termina con la fine del controllo. La gestione sicura e standardizzata delle prove raccolte è essenziale per garantire la validità dei ban e il rispetto della privacy.
 
-* **Archiviazione Sicura:** Le registrazioni video e gli screenshot del controllo contengono una visione del PC del player. Devono essere gestiti e archiviati seguendo procedure rigorose per garantirne l'integrità e la riservatezza.
-  * `@policy TODO: Definire la piattaforma di archiviazione temporanea per i video (es. Google Drive privato, cartella locale, etc.).`
+* **Archiviazione Sicura:** Le registrazioni video e gli screenshot del controllo contengono una visione del PC del player. Devono essere gestiti e archiviati seguendo procedure rigorose per garantirne l'integrità e la riservatezza. Consigliamo di utilizzare Imgur per Immagini e YouTube per video.
 * **Policy di Ritenzione e Archiviazione delle Prove:** Le prove non vengono conservate a tempo indeterminato e seguono cicli di vita diversi.
   * **Registrazioni Video:**
     * La registrazione video completa del controllo deve essere conservata localmente o su un archivio cloud temporaneo per un periodo di **14 giorni** dalla data del controllo.
