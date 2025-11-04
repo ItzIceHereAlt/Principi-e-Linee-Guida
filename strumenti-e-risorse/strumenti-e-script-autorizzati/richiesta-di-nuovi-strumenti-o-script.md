@@ -4,7 +4,7 @@ icon: plus
 
 # Richiesta di Nuovi Strumenti o Script
 
-Il panorama degli strumenti di analisi e delle tecniche di bypass è in continua evoluzione. Sebbene la lista ufficiale degli strumenti raccomandati copra la maggior parte delle necessità operative, possono emergere nuove risorse utili.
+Il panorama degli strumenti di analisi e delle tecniche di bypass è in continua evoluzione. Sebbene la lista ufficiale degli strumenti raccomandati copra la maggior parte dei Tool utili, possono emergere nuove risorse.
 
 Questa pagina delinea una procedura consigliata da seguire per proporre l'aggiunta di un nuovo strumento o script all'arsenale approvato di un team.
 

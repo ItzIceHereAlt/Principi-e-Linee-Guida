@@ -29,7 +29,7 @@ Le prove non vengono conservate a tempo indeterminato, ma seguono un ciclo di vi
 {% hint style="warning" %}
 Se una registrazione o uno screenshot deve essere condiviso con altri (anche all'interno dello staff), è **obbligatorio censurare (oscurare o sfocare)** qualsiasi informazione personale o sensibile non strettamente pertinente alla prova, come:
 
-* Indirizzi email, nomi di contatti, indirizzi IP personali.
+* Indirizzi email, nomi di contatti.
 * Contenuto di cartelle o file personali visibili accidentalmente.
 * Qualsiasi altro dato che potrebbe compromettere la privacy del player.
 
