@@ -8,6 +8,11 @@ Per mantenere coerenza, sicurezza e affidabilità durante i controlli, si raccom
 
 Quelli elencati di seguito rappresentano una selezione di software affidabili, efficaci e ampiamente utilizzati nella community, che costituiscono una base solida per qualsiasi team di ScreenShare.
 
+{% hint style="success" %}
+[**Forensic Toolkit Hub**](https://www.google.com/url?sa=E\&q=https%3A%2F%2Fitzicehere-tool-downloader.vercel.app%2F)\
+Per facilitare il download di tutti gli strumenti approvati, è stato creato un sito web centralizzato chiamato **Forensic Toolkit Hub**. All'interno troverete i link di download diretti e verificati per ogni tool elencato in questa guida.
+{% endhint %}
+
 ***
 
 #### Strumenti di Analisi di Sistema e Processi
